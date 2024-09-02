@@ -1,0 +1,14 @@
+{
+  "team_id": "Dummy",
+  "run_name": "Dummy Run #1",
+  "results": [
+    {
+      "topic_id": "118",
+      "answer": "A minor corneal abrasion can take 1-3 days to heal on its own [32091909]. However, this timeframe may vary depending on the severity and location of the injury. Studies have shown that most superficial corneal abrasions will recover in a week or less with minimal treatment [28678410]. The healing process may be slowed in people with pre-existing conditions such as diabetes or vitamin deficiencies. In general, if symptoms worsen or do not improve within 3-5 days, medical attention should be sought. Delaying treatment can lead to complications and prolonged recovery times. [31886449]",
+      "references": ["32091909","28678410","31886449"]
+    }
+  ]
+}
+
+
+

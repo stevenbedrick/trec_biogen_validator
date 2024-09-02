@@ -1,0 +1,394 @@
+{
+  "topics": [
+    {
+      "id": 116,
+      "topic": "natural treatments for sleep apnea",
+      "question": "Are there ways to prevent sleep apnea or treat it naturally?",
+      "narrative": "The patient is looking for natural remedies to prevent and treat sleep apnea."
+    },
+    {
+      "id": 117,
+      "topic": "runx2 mutations",
+      "question": "What will mutation in runx2 affect in the future?",
+      "narrative": "The patient is asking about the effects of mutations involving Runt-related transcription factor 2 (RUNX2) on development of the body and problems the mutations may cause in the future."
+    },
+    {
+      "id": 118,
+      "topic": "cornea injury healing",
+      "question": "How long does a minor cornea injury take to heal without medical attention?",
+      "narrative": "A patient believes his cornea injury does not need medical attention. The patient expects the injury to heal on its own, but asking for the time at which the eye should heal."
+    },
+    {
+      "id": 119,
+      "topic": "Drug treatment for COPD stage 4",
+      "question": "What drug or combination of drugs is most popular for treating stage 4 COPD?",
+      "narrative": "This patient is looking for the most effective and popular medications for advanced Chronic obstructive pulmonary disease (COPD)."
+    },
+    {
+      "id": 120,
+      "topic": "causes of facial numbness",
+      "question": "What causes left sided facial numbness?",
+      "narrative": "This patient is feeling the left side of his face is numb. He did not have any injuries or procedures, and feels well otherwise. He is concerned this might be a sign of a problem and wants to know if the causes need medical attention."
+    },
+    {
+      "id": 121,
+      "topic": "lowering cortisol level",
+      "question": "How can I lower my cortisol level?",
+      "narrative": "An athlete found out her blood test had high cortisol levels. She knows this might have negative effect on her performance and health. She wants to lower her cortisol levels."
+    },
+    {
+      "id": 122,
+      "topic": "t wave abnormality",
+      "question": "What is a t wave abnormality?",
+      "narrative": "This patient had an ECG test. She was told some t wave abnormalities were seen in the test. She is looking for a definition of t wave abnormalities and an explanation of their meaning."
+    },
+    {
+      "id": 123,
+      "topic": "fbn1 mutation",
+      "question": "What is fbn1 mutation?",
+      "narrative": "A young woman who is planning to start a family has heard that one of her cousins had a mutation in the gene for fibrillin-1 (FBN1). She would like to know more about these mutations and the health problems that might be caused by the mutation."
+    },
+    {
+      "id": 124,
+      "topic": "cad without angina",
+      "question": "What does cad without angina mean?",
+      "narrative": "This patient was diagnosed with coronary heart disease without angina pectoris. He would like to know more about this condition."
+    },
+    {
+      "id": 125,
+      "topic": "tamsulosin indications",
+      "question": "What is tamsulosin used for?",
+      "narrative": "The patient found tamsulosin in the medicine cabinet and cannot remember who got this prescription and why."
+    },
+    {
+      "id": 126,
+      "topic": "nondisjunction",
+      "question": "What is nondisjunction and what causes it?",
+      "narrative": "A family that is considering IVF has heard about nondisjunction. They would like to know more about non-disjunction and its causes."
+    },
+    {
+      "id": 127,
+      "topic": "gene therapy effect",
+      "question": "What effects does gene therapy have on an organism?",
+      "narrative": "This cancer patient has heard about gene therapy. He is interested in the effect gene therapy has on the body."
+    },
+    {
+      "id": 128,
+      "topic": "cbd effect on liver enzymes",
+      "question": "How does CBD effect liver enzymes?",
+      "narrative": "This patient would like to know if cannabidiol (CBD) may damage his liver and if the liver enzyme tests will show the effect of CBD on the liver."
+    },
+    {
+      "id": 129,
+      "topic": "abrupt cessation of metoprolol",
+      "question": "What are side effects for suddenly stopping metoprolol?",
+      "narrative": "The patient noticed her ankles are swollen and believes this might be the side effect of metoprolol she is taking for her high blood pressure. It is too late to call the doctor. She thinks about skipping the next dose. She would like to know if this will cause any problems."
+    },
+    {
+      "id": 130,
+      "topic": "pcos and oxidative stress",
+      "question": "Is pcos linked to oxidative stress?",
+      "narrative": "The patient with polycystic ovary syndrome has heard the condition is linked to oxidative stress. She would like to know how oxidative stress effects pcos."
+    },
+    {
+      "id": 131,
+      "topic": "side effects of formoterol",
+      "question": "What are side effects of using formoterol?",
+      "narrative": "An asthma patient who is taking formoterol is interested in the side effects of this drug."
+    },
+    {
+      "id": 132,
+      "topic": "low vitamin D",
+      "question": "What is the effect of low vitamin D?",
+      "narrative": "The patient diagnosed with vitamin D deficiency would like to know how the problem affects his health."
+    },
+    {
+      "id": 133,
+      "topic": "ovarian cyst surgery",
+      "question": "What are the short and long term effects of surgery and its complexity for women with ovarian cyst?",
+      "narrative": "The woman with ovarian cyst was told she needs surgery. She is worried the surgery will affect her fertility. She would like to know which procedures are recommended as having less negative effects."
+    },
+    {
+      "id": 134,
+      "topic": "ibs symptoms and treatments",
+      "question": "What are the symptoms and treatments for IBS?",
+      "narrative": "The patient believes his symptoms may be related to irritable bowel syndrome (IBS). He would like to know more about the symptoms and treatment options."
+    },
+    {
+      "id": 135,
+      "topic": "untreated thyroid problems",
+      "question": "What can happen if you are prescribed thyroid meds but don't take them?",
+      "narrative": "The patient was prescribed medications for her thyroid, but doesn't want to take the drugs. She is wondering if this is safe."
+    },
+    {
+      "id": 136,
+      "topic": "treatment for elbow pain",
+      "question": "What can be done for severe elbow pain?",
+      "narrative": "The patient's elbow started hurting after playing tennis. The pain was not relieved by Aleve. The patient would like to know what else could be done."
+    },
+    {
+      "id": 137,
+      "topic": "lowering a1c levels",
+      "question": "In an adult with type 2 diabetes would metformin or ketogenic diet be the most effective option to lower a1c levels?",
+      "narrative": "The patient has type 2 diabetes and wonders if metformin or ketogenic diet will control the blood glucose levels better."
+    },
+    {
+      "id": 138,
+      "topic": "Sudafed Afrin interaction",
+      "question": "Can I use Sudafed after using Afrin for nasal congestion?",
+      "narrative": "Afrin did not relieve nasal congestion in the patient who is now wondering if taking Sudafed will help. The patient would like to know if it is safe to take the two medications together."
+    },
+    {
+      "id": 139,
+      "topic": "untreated anorexia",
+      "question": "What are possible long-term outcomes of not treating anorexia?",
+      "narrative": "A young woman is afraid of gaining weight and suspects she might be anorexic. She is wondering if continuing her life-style will have negative effects on her health in the future."
+    },
+    {
+      "id": 140,
+      "topic": "spontaneous hand fractures",
+      "question": "What can cause acute fractures in both of your hands when there hasn’t been injury or trauma?",
+      "narrative": "A patient felt pain in his hands after vigorous exercise. In the ER, he was told he has fractures. He is wondering what could have caused the fractures: he did not have any injuries during exercise."
+    },
+    {
+      "id": 141,
+      "topic": "yellow fever complications",
+      "question": "What are the possible complications for a person that has yellow fever?",
+      "narrative": "After visiting Ethiopia, the patient was diagnosed with yellow fever. He would like to know if there are likely complications."
+    },
+    {
+      "id": 142,
+      "topic": "Medications that raise blood pressure",
+      "question": "What medication has a drug interaction with high blood pressure?",
+      "narrative": "The hypertensive patient is concerned that some of the medications he is taking may elevate his blood pressure and interact with his antihypertensive medications."
+    },
+    {
+      "id": 143,
+      "topic": "coping with Huntington's disease",
+      "question": "How to live with Huntington's disease?",
+      "narrative": "A patient diagnosed with Huntington's disease knows that his condition will deteriorate. He is looking for coping techniques and advice on lifestyle changes that may improve his life quality."
+    },
+    {
+      "id": 144,
+      "topic": "starting hypertension treatment",
+      "question": "When should I treat high blood pressure?",
+      "narrative": "The patient has high blood pressure, but otherwise is healthy and fit. She is wondering if she should talk to her doctor about treatment options."
+    },
+    {
+      "id": 145,
+      "topic": "opdivo side effects",
+      "question": "What are the side effects of opdivo treatment for melanoma?",
+      "narrative": "The patient diagnosed with melanoma was prescribed opdivo. He would like to know what side effects to expect."
+    },
+    {
+      "id": 146,
+      "topic": "Management of PTSD",
+      "question": "How can PTSD be treated/managed?",
+      "narrative": "A war veteran is seeking help for PTSD."
+    },
+    {
+      "id": 147,
+      "topic": "atherosclerosis treatment",
+      "question": "What treatments options are available for atherosclerosis?",
+      "narrative": "A 60-year-old man diagnosed with atherosclerosis is looking for the best treatment."
+    },
+    {
+      "id": 148,
+      "topic": "easy bruising",
+      "question": "Why do I bruise so easily?",
+      "narrative": "A 59-year-old woman noticed multiple spontaneous bruises in the past several weeks. She would like to know what causes this bruising."
+    },
+    {
+      "id": 149,
+      "topic": "lumbar disc herniation diagnosis",
+      "question": "What is the best test to rule out a lumbar disc herniation?",
+      "narrative": "A 52-year-old male with pain in the lower back and right leg for 1 month was told he might have a herniated disc. He is wondering what tests will show if he has a lumbar disc herniation."
+    },
+    {
+      "id": 150,
+      "topic": "effectiveness of physical therapy for lumbar disc herniation",
+      "question": "What are the effectiveness of physical therapy interventions in reducing pain in patients with lumbar disc herniation?",
+      "narrative": "A 52-year-old with lumbar disc herniation was referred to physical therapy. He would like to know if this treatment will effectively reduce his pain."
+    },
+    {
+      "id": 151,
+      "topic": "gray scaly skin",
+      "question": "What has turned my skin gray and scaly?",
+      "narrative": "A 54-year-old man noticed his skin tone became gray and the skin is scaly. He is wondering what caused these skin changes."
+    },
+    {
+      "id": 152,
+      "topic": "quitting amlodipine",
+      "question": "Is it possible to quit taking amlodipine after taking for many years?",
+      "narrative": "The patient has been taking amlodipine for many years. She would like to know if it is safe to stop taking it."
+    },
+    {
+      "id": 153,
+      "topic": "hct levels for blood transfusion",
+      "question": "If hct is 34, does pt need blood transfusion?",
+      "narrative": "Following some blood loss, the patient had hct 34% on the blood test. The family is wondering if the patient needs blood transfusion."
+    },
+    {
+      "id": 154,
+      "topic": "breathing techniques for managing shortness of breath",
+      "question": "How to breathe when you are short of breath?",
+      "narrative": "The patient is constantly out of breath and wants to improve breathing using breathing techniques and exercise."
+    },
+    {
+      "id": 155,
+      "topic": "eye drops after cataract surgery",
+      "question": "For how long after cataract surgery do I keep dropping eye drops?",
+      "narrative": "The patient had cataract surgery and was prescribed eye drops. After using the drops for a week, the patient would like to know if he can stop using the drops."
+    },
+    {
+      "id": 156,
+      "topic": "golfer's elbow",
+      "question": "What are some non-surgical treatments recommended for Golfer's elbow?",
+      "narrative": "A family doctor is looking for the best conservative treatments for his patient."
+    },
+    {
+      "id": 157,
+      "topic": "factor V Leiden",
+      "question": "What are the potential consequences for women who carry the factor V Leiden mutation during pregnancy or when taking estrogen?",
+      "narrative": "A woman who carries a factor V Leiden mutation needs to be advised on the potential complications of IVF and pregnancy specific to her genotype."
+    },
+    {
+      "id": 158,
+      "topic": "klippel trenaunay",
+      "question": "What genetic mutation is most commonly associated with the development of Klippel-Trenaunay syndrome (KTS)?",
+      "narrative": "A healthcare provider looks for specific genetic testing for a patient with a capillary stain."
+    },
+    {
+      "id": 159,
+      "topic": "spontaneous coronary artery dissection",
+      "question": "What is the age group that most commonly experiences spontaneous coronary artery dissection (SCAD)?",
+      "narrative": "A 31-year-old woman present to ER with MI symptoms. The emergency physician suspects it may be caused by SCAD."
+    },
+    {
+      "id": 160,
+      "topic": "toxic hepatitis",
+      "question": "What is the recommended first-line treatment for liver damage caused by an overdose of acetaminophen?",
+      "narrative": "The emergency physician is looking for treatments for a patient admitted with acetaminophen overdose."
+    },
+    {
+      "id": 161,
+      "topic": "diabetic nephropathy",
+      "question": "What are the signs and symptoms of advanced stages of diabetic nephropathy?",
+      "narrative": "A diabetic patient complains of confusion and swollen ankles. His healthcare provider is concerned the patient's diabetic nephropathy may be progressing."
+    },
+    {
+      "id": 162,
+      "topic": "wilsons disease",
+      "question": "What is the typical age range for the diagnosis of Wilson's disease?",
+      "narrative": "A 62-year-old patient has signs of liver and brain damage. Her PCP wonders if Wilson's disease can be diagnosed at this age."
+    },
+    {
+      "id": 163,
+      "topic": "leukemia",
+      "question": "What are some common signs and symptoms of leukemia that patients might experience?",
+      "narrative": "A PCP suspects the patient who complains of fatigue and chills may have leukemia and wants to ask the patient if she has the other most common symptoms."
+    },
+    {
+      "id": 164,
+      "topic": "vocal cord paralysis",
+      "question": "What is a potential complication associated with bilateral vocal cord paralysis?",
+      "narrative": "A laryngologist conducts a comprehensive assessment of a singer considering the patient's quantity-of-life and perspective."
+    },
+    {
+      "id": 165,
+      "topic": "bone cancer",
+      "question": "What is the most common form of bone cancer, and in which demographic does it occur most often?",
+      "narrative": "An X-ray shows a mottled appearance of bone in the patient's arm. The provider needs information on the common bone cancers and demographics."
+    },
+    {
+      "id": 166,
+      "topic": "multiple myeloma",
+      "question": "What are the different tests and procedures used to diagnose multiple myeloma?",
+      "narrative": "The provider is looking for the best workup for the patient with suspected multiple myeloma."
+    },
+    {
+      "id": 167,
+      "topic": "multisystem inflammatory syndrome in children",
+      "question": "What are the criteria for diagnosing a child with multisystem inflammatory syndrome in children (MIS-C)?",
+      "narrative": "The provider is looking for the best workup for a child with suspected multisystem inflammatory syndrome."
+    },
+    {
+      "id": 168,
+      "topic": "intermittent explosive disorder",
+      "question": "What treatment options are suggested for managing intermittent explosive disorder?",
+      "narrative": "The provider is looking for the best treatment for intermittent explosive disorder."
+    },
+    {
+      "id": 169,
+      "topic": "myoclonus",
+      "question": "What are some of the treatments prescribed for myoclonus and their possible side effects?",
+      "narrative": "The provider is looking for the treatments for myoclonus, specifically with minimal adverse reactions."
+    },
+    {
+      "id": 170,
+      "topic": "isoniazid hepatotoxicity",
+      "question": "What is the prevalence of INH hepatitis during anti-tubercular therapy for latent tuberculosis, and what is the associated mortality rate for these cases?",
+      "narrative": "The provider is concerned with hepatotoxicity due to isoniazid monotherapy for tuberculosis and wants to know the mortality rate associated with liver damage due to INH."
+    },
+    {
+      "id": 171,
+      "topic": "T2DM in children and adolescents",
+      "question": "What are the risk factors associated with type 2 diabetes mellitus (T2DM) in children and adolescents?",
+      "narrative": "The provider is looking for information on epidemiology, presentation, and diagnosis of type 2 diabetes mellitus in children and adolescents."
+    },
+    {
+      "id": 172,
+      "topic": "ankle fractures in adults",
+      "question": "What are the major indications for operative fixation of an ankle fracture?",
+      "narrative": "The provider is considering referring a patient with an ankle fracture to an orthopedic surgeon, and needs information on the major indications for surgery."
+    },
+    {
+      "id": 173,
+      "topic": "IVF clinical issues and questions",
+      "question": "What is the main reason for the decreased success of in vitro fertilization (IVF) in older females, particularly those over 40 years?",
+      "narrative": "The provider is looking for causes of IVF failures and their mitigation in women over 40."
+    },
+    {
+      "id": 174,
+      "topic": "metabolic bone disease in inflammatory bowel disease",
+      "question": "What are the risk factors for osteoporosis and fracture in patients with inflammatory bowel disease (IBD)?",
+      "narrative": "The provider is looking for management of IBD that includes prevention of osteopenia, osteoporosis, and bone fractures."
+    },
+    {
+      "id": 175,
+      "topic": "adult dyspepsia treatment",
+      "question": "What is the recommended first-line treatment for patients under 60 years of age with dyspepsia who test negative for Helicobacter pylori or continue to have symptoms after successful eradication of H. pylori?",
+      "narrative": "The provider is looking for management of an adult patient who continues experiencing dyspepsia after eradication of H. pylori."
+    },
+    {
+      "id": 176,
+      "topic": "rectal microbiota for prophylaxis of C. diff.",
+      "question": "What is the appropriate dosing volume for fecal microbiota rectal suspension used as Clostridioides difficile infection prophylaxis in adults?",
+      "narrative": "Hospital staff are looking for information on dosing of fecal microbiota rectal suspension to prevent Clostridioides difficile infection."
+    },
+    {
+      "id": 177,
+      "topic": "ophthalmic atropine",
+      "question": "What specific ophthalmic conditions is atropine used to treat?",
+      "narrative": "A pharmacist is looking for information on use of atropine as ophthalmic treatment."
+    },
+    {
+      "id": 178,
+      "topic": "preparticipation physical evaluation",
+      "question": "What is the most sensitive and specific component of the Preparticipation Physical Evaluation (PPE) for detecting conditions that might preclude participation in sports?",
+      "narrative": "The athlete’s primary care provider is looking for information on PPE in children and adolescents to keep the athlete safe and healthy while participating in sports."
+    },
+    {
+      "id": 179,
+      "topic": "palliative care for patients with advanced heart failure",
+      "question": "What is the estimated prevalence of depression in symptomatic heart failure (HF) patients, and what is its association with clinical outcomes?",
+      "narrative": "A PCP is looking for decision support for palliative care and management of symptoms in patients with advanced heart failure."
+    },
+    {
+      "id": 180,
+      "topic": "adverse muscle events due to statins",
+      "question": "What factors contribute to a higher risk of statin-associated adverse muscle events and what specific statins are recommended for patients at increased risk due to concurrent therapy with a strong inhibitor of CYP3A4?",
+      "narrative": "A PCP is looking for the most appropriate statin for a patient that is on diltiazem, specifically to avoid adverse muscle events."
+    }
+  ]
+}
