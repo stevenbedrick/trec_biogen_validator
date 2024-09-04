@@ -28,7 +28,7 @@ The program will open the submission file, go through each topic, and perform ap
 
 The program has an optional argument, `--dump_sentence_tokenization`; if this is set, topics that have errors or warnings will be accompanied by a dump of the Spacy sentence tokenization, to aid in debugging.
 
-In addition to this method of command-line use, you can also run the program via a config file. The script uses `[jsonargparse](https://jsonargparse.readthedocs.io/`) so any of its formats will work; for example, YAML is an option:
+In addition to this method of command-line use, you can also run the program via a config file. The script uses [`jsonargparse`](https://jsonargparse.readthedocs.io/) so any of its formats will work; for example, YAML is an option:
 
 ```{yaml}
 path_to_submission: PATH_TO_SUBMISSION_JSON_FILE
