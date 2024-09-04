@@ -12,8 +12,12 @@ class SubmissionValidationError(Enum):
     MALFORMED_CITATION = (
         auto()
     )  # a sentence's bracketed citations were not formed properly
+    IGNORED_CITATION_BLOCK = (
+        auto()
+    )  # a stray citation block was found somewhere we are ignoring such things
     INVALID_PMID = auto()  # a provided PMID was not in the release dataset
     REPEATED_PMID = auto()  # a provided PMID was repeated in the references list
     ORPHANED_PMID = (
         auto()
-    )  # a PMID in the reference list was not mentioned in any of the sentence-level output
+    )  # a PMID in the reference list was not mentioned in any of the sentence-level output, or vice versa
+    INVALID_TOPIC = auto()  # a topic was provided that is invalid
