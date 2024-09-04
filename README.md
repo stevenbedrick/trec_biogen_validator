@@ -24,7 +24,7 @@ python -m trec_biogen_validator \
     --path_to_topics PATH_TO_TOPICS_JSON_FILE
 ```
 
-The program will open teh submission file, go through each topic, and perform appropriate validations, printing out information about errors and warnings along the way.
+The program will open the submission file, go through each topic, and perform appropriate validations, printing out information about errors and warnings along the way.
 
 The program has an optional argument, `--dump_sentence_tokenization`; if this is set, topics that have errors or warnings will be accompanied by a dump of the Spacy sentence tokenization, to aid in debugging.
 
